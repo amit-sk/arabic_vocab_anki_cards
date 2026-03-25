@@ -1,11 +1,18 @@
 {
-    "audio/1-3_allah_maak.mp3": "אַללַّה מַעַאכּ | להתראות (שהאל יהיה איתך)",
-    "audio/1-3_allah_yhalik.mp3": "אַללַّה יְחַ'לִّיכּ	| תהיה בריא (שאללה ישאיר אותך)",
-    "audio/1-3_fursa_saide.mp3": "פֻרְצַה סַעִידֵה | נעים להכיר",
-    "audio/1-3_kif_halak.mp3": "כִּיף חַאלַכּ? | מה שְּׁלוֹמְךָ?",
-    "audio/1-3_kif_halek.mp3": "כִּיף חַאלֵכּּ? | מה שְׁלוֹמֵךְ?",
-    "audio/1-3_kifak.mp3": "כִּיפַכּ? | מה שְּׁלוֹמְךָ?",
-    "audio/1-3_salaam_aleikum.mp3": "אִ(ל)סַّלַאם עַלֵיכֹּם | שלום, (שלום עליך)",
-    "audio/1-3_salamat.mp3": "סַלַאמַאת | להתראות",
-    "audio/1-3_waaleikum_salaam.mp3": "וּעַלֵיכֹּם אִ(ל)סַّלַאם | שלום גם לך (ועליך השלום)"
+    "https://s3.eu-west-2.amazonaws.com/madrasa-voice/Female/Nagham+(10).mp3": "אַללַّה מַעַאכּ | להתראות (שהאל יהיה איתך)",
+    "https://s3.eu-west-2.amazonaws.com/madrasa-voice/Female/Nagham+(13).mp3": "אַללַّה יְחַ'לִّיכּ	| תהיה בריא (שאללה ישאיר אותך)",
+    "https://s3.eu-west-2.amazonaws.com/madrasa-voice/Female/Nagham+(16).mp3": "פֻרְצַה סַעִידֵה | נעים להכיר",
+    "https://s3.eu-west-2.amazonaws.com/madrasa-voice/Female/Nagham+(8).mp3": "כִּיף חַאלַכּ? | מה שְּׁלוֹמְךָ?",
+    "https://s3.eu-west-2.amazonaws.com/madrasa-voice/lesson1/Les1Rec1.mp3": "כִּיף חַאלֵכּּ? | מה שְׁלוֹמֵךְ?",
+    "https://s3.eu-west-2.amazonaws.com/madrasa-voice/Female/Nagham+(9).mp3": "כִּיפַכּ? | מה שְּׁלוֹמְךָ?",
+    "https://s3.eu-west-2.amazonaws.com/madrasa-voice/Female/Nagham+(11).mp3": "אִ(ל)סַّלַאם עַלֵיכֹּם | שלום, (שלום עליך)",
+    "https://s3.eu-west-2.amazonaws.com/madrasa-voice/Female/Nagham+(4).mp3": "סַלַאמַאת | להתראות",
+    "https://s3.eu-west-2.amazonaws.com/madrasa-voice/Female/Nagham+(12).mp3": "וּעַלֵיכֹּם אִ(ל)סַّלַאם | שלום גם לך (ועליך השלום)",
+    "https://s3.eu-west-2.amazonaws.com/madrasa-voice/Female/Nagham+(14).mp3": "שוּ אִסְמַכּ | מה  שִׁמְךָ?",
+    "https://s3.eu-west-2.amazonaws.com/madrasa-voice/lesson1/Les1Rec4.mp3": "אֵיש אִסְמֵכּ? | איך קוראים לךְ? (איך שְׁמֵךְ?)",
+    "https://s3.eu-west-2.amazonaws.com/madrasa-voice/lesson1/Les1Rec5.mp3": "מִין הֻםֵّ? | מי הם?",
+    "https://s3.eu-west-2.amazonaws.com/madrasa-voice/lesson1/Les1Rec6.mp3": "אִחְנַא מִן הוֹן | אנחנו מכאן",
+    "https://s3.eu-west-2.amazonaws.com/madrasa-voice/lesson1/Les1Rec7.mp3": "הִיֵّ מִן הֻנַאכּ | היא משם",
+    "https://s3.eu-west-2.amazonaws.com/madrasa-voice/lesson1/Les1Rec8.mp3": "מִן וֵין אִנְתוּ? | מאיפה אתם?",
+    "https://s3.eu-west-2.amazonaws.com/madrasa-voice/lesson1/Les1Rec9.mp3": "וֵין אִנְתִי? | איפה את?"
 }
