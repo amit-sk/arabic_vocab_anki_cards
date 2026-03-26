@@ -24,7 +24,7 @@ def invoke(action, **params):
 def add_flashcard(front, back):
     note = {
         "deckName": DECK_NAME,
-        "modelName": "Basic",
+        "modelName": "Basic (and reversed card)",
         "fields": {
             "Front": front,
             "Back": back
@@ -68,8 +68,8 @@ def words_lesson_1():
             back = word[word.find('|') + 1:]
             add_flashcard(front=front, back=back)
 
-def audio():
-    with open('audio/audio.json', 'r', encoding="utf-8") as f:
+def audio_lesson_1():
+    with open('audio_lesson1.json', 'r', encoding="utf-8") as f:
         words = json.load(f)
         for front, back in words.items():
             add_audio_flashcard(audio_url=front, back=back)
@@ -80,6 +80,7 @@ def main():
     # invoke("createDeck", deck=DECK_NAME)
     # words_intro()
     # words_lesson_1()
+    audio_lesson_1()
 
 
 if __name__ == "__main__":

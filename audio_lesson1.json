@@ -1,6 +1,6 @@
 {
     "https://s3.eu-west-2.amazonaws.com/madrasa-voice/Female/Nagham+(10).mp3": "אַללַّה מַעַאכּ | להתראות (שהאל יהיה איתך)",
-    "https://s3.eu-west-2.amazonaws.com/madrasa-voice/Female/Nagham+(13).mp3": "אַללַّה יְחַ'לִّיכּ	| תהיה בריא (שאללה ישאיר אותך)",
+    "https://s3.eu-west-2.amazonaws.com/madrasa-voice/Female/Nagham+(13).mp3": "אַללַّה יְחַ'לִّיכּ | תהיה בריא (שאללה ישאיר אותך)",
     "https://s3.eu-west-2.amazonaws.com/madrasa-voice/Female/Nagham+(16).mp3": "פֻרְצַה סַעִידֵה | נעים להכיר",
     "https://s3.eu-west-2.amazonaws.com/madrasa-voice/Female/Nagham+(8).mp3": "כִּיף חַאלַכּ? | מה שְּׁלוֹמְךָ?",
     "https://s3.eu-west-2.amazonaws.com/madrasa-voice/lesson1/Les1Rec1.mp3": "כִּיף חַאלֵכּּ? | מה שְׁלוֹמֵךְ?",
@@ -20,5 +20,10 @@
     "https://s3.eu-west-2.amazonaws.com/madrasa-voice/lesson1/Les1Rec14.mp3": "אִנְתֵ סַאכֵּן הֻנַאכּ | אתה גר שם",
     "https://s3.eu-west-2.amazonaws.com/madrasa-voice/lesson1/Les1Rec15.mp3": "הֻםֵّ סַאכְּנִין פִי סַחְ'נִין | הם גרים בסכנין",
     "https://s3.eu-west-2.amazonaws.com/madrasa-voice/lesson1/Les1Rec16.mp3": "אַנַא מִש סַאכְּנֵה הוֹן | אני לא גרה כאן",
-    "https://s3.eu-west-2.amazonaws.com/madrasa-voice/lesson1/Les1Rec17.mp3": "אַנַא מִן חיפא וּהִיֵّ מִן גֵ'נִין. אִחְנַא מִש סַאכְּנִין הוֹן | אני מחיפה והיא מג'נין. אנחנו לא גרים כאן. "
+    "https://s3.eu-west-2.amazonaws.com/madrasa-voice/lesson1/Les1Rec17.mp3": "אַנַא מִן חיפא וּהִיֵّ מִן גֵ'נִין. אִחְנַא מִש סַאכְּנִין הוֹן | אני מחיפה והיא מג'נין. אנחנו לא גרים כאן. ",
+    "https://s3.eu-west-2.amazonaws.com/madrasa-voice/lesson1/Les1Rec22.mp3": "עִנְדִי צַאחְבֵּה וּכַּמַאן צַאחֵבּ | יש לי חברה וגם חבר",
+    "https://s3.eu-west-2.amazonaws.com/madrasa-voice/lesson1/Les1Rec23.mp3": "עִנְדֵכּ וּלַאד בַּסّ מַא עִנְדֵכּ בַּנַאת | יש לך ילדים אבל אין לך בנות",
+    "https://s3.eu-west-2.amazonaws.com/madrasa-voice/lesson1/Les1Rec24.mp3": " כְּתִיר וּלַאד סַאכְּנִין הוֹן | הרבה ילדים גרים כאן",
+    "https://s3.eu-west-2.amazonaws.com/madrasa-voice/lesson1/Les1Rec25.mp3": "אַמַל מִש סַאכְּנֵה הֻנַאכּ | אמל לא גרה שם",
+    "https://s3.eu-west-2.amazonaws.com/madrasa-voice/lesson1/Les1Rec26.mp3": "אַנַא סַאכְּנֵה פִי תל אביב. וּאַנַא כַּמַאן. | אני גרה בתל אביב. ואני גם."
 }
