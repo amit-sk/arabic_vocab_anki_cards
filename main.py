@@ -79,7 +79,7 @@ def main():
     print("AnkiConnect version:", invoke("version"))
     # invoke("createDeck", deck=DECK_NAME)
     # words_intro()
-    # words_lesson_1()
+    words_lesson_1()
     audio_lesson_1()
 
 
