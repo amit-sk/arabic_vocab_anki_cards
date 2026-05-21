@@ -60,16 +60,16 @@ def words_intro():
             back = word[word.find('(') + 1 : word.find(')')]
             add_flashcard(front=front, back=back)
 
-def words_lesson_1():
-    with open('words_lesson1.txt', 'r', encoding="utf-8") as f:
+def words_lesson_i(i):
+    with open(f'words_lesson{i}.txt', 'r', encoding="utf-8") as f:
         words = f.read().splitlines()
         for word in words:
             front = word[:word.find('|')]
             back = word[word.find('|') + 1:]
             add_flashcard(front=front, back=back)
 
-def audio_lesson_1():
-    with open('audio_lesson1.json', 'r', encoding="utf-8") as f:
+def audio_lesson_i(i):
+    with open(f'audio_lesson{i}.json', 'r', encoding="utf-8") as f:
         words = json.load(f)
         for front, back in words.items():
             add_audio_flashcard(audio_url=front, back=back)
@@ -79,8 +79,10 @@ def main():
     print("AnkiConnect version:", invoke("version"))
     # invoke("createDeck", deck=DECK_NAME)
     # words_intro()
-    words_lesson_1()
-    audio_lesson_1()
+    # words_lesson(i=1)
+    # audio_lesson(i=1)
+    words_lesson_i(i=2)
+    audio_lesson_i(i=2)
 
 
 if __name__ == "__main__":
